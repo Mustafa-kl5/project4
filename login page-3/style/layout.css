@@ -1,0 +1,99 @@
+.login-card {
+    margin-top: 110px;
+    margin-bottom: 110px;
+    margin-left: 240px;
+    margin-right: 240px;
+    width: 1440px;
+}
+
+.login-info {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.login-logo {
+    justify-content: end;
+    display: flex;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-content {
+    margin-top: 39px;
+
+}
+
+.email-logo {
+    position: relative;
+    top: 22px;
+    left: 26px;
+}
+
+.email-input {
+    position: relative;
+    top: 21px;
+    left: 68px;
+}
+
+.password-content {
+    margin-top: 20px;
+}
+
+.password-logo {
+    position: relative;
+    top: 22px;
+    left: 31px;
+}
+
+.password-input {
+    position: relative;
+    top: 21px;
+    left: 68px;
+}
+
+.button-layot {
+    margin-top: 40px;
+
+}
+
+.sign-up {
+    margin-top: 156px;
+    margin-bottom: 59px;
+}
+
+.img-card {
+    width: 1043px;
+    height: 860px;
+}
+
+.img-over {
+    position: absolute;
+    right: 60px;
+    top: 66px;
+}
+
+.welcome-over {
+    position: absolute;
+    top: 506px;
+    left: 110px;
+
+}
+
+.join-over {
+    position: absolute;
+    top: 600px;
+    left: 110px;
+}
+
+.button-over {
+    margin-top: 54px;
+    margin-bottom: 84px;
+    left: 110px;
+    top: 716px;
+}

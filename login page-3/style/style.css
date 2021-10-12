@@ -1,0 +1,148 @@
+.login-img {
+
+    background: #035EE6 0% 0% no-repeat padding-box;
+    opacity: 0.9;
+    width: 100%;
+    height: 100%;
+
+}
+
+.paragraph-style {
+    width: 63px;
+    height: 27px;
+    text-align: right;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+
+.img-form-logo-style {
+    width: 63px;
+    height: 105px;
+    background: #176AE6 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 117.83px;
+
+}
+
+.paragraph-description {
+    width: 180px;
+    height: 34px;
+    text-align: center;
+    font: normal normal normal 25px/34px Avenir;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-top: 82px;
+}
+
+.email-content-style {
+    width: 300px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #176AE6;
+    border-radius: 35px;
+    opacity: 1;
+}
+
+.email-logo-style {
+
+    width: 23px;
+    height: 16px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.email-input-style {
+    width: 104px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Avenir;
+    letter-spacing: 0.8px;
+    color: #000000;
+    opacity: 1;
+    border: none;
+}
+
+.password-content-style {
+    width: 300px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D4D4D4;
+    border-radius: 35px;
+    opacity: 1;
+}
+
+.password-input-style {
+    border: none;
+    width: 95px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Avenir;
+    letter-spacing: 0.8px;
+    color: #000000;
+    opacity: 0.5
+}
+
+.button-style {
+    width: 300px;
+    height: 60px;
+    background: #176AE6 0% 0% no-repeat padding-box;
+    border-radius: 35px;
+    opacity: 1;
+    border: none;
+}
+
+.sign-up-style {
+    width: 260px;
+    height: 27px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    text-decoration: none;
+}
+
+.login-paragraph-style {
+    width: 63px;
+    height: 27px;
+    text-align: right;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.4;
+
+
+}
+
+.welcome-over-style {
+    height: 59px;
+    text-align: left;
+    font: normal normal 900 43px/59px Avenir;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.join-over-style {
+    width: 447px;
+    height: 62px;
+    text-align: left;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.button-style1 {
+    width: 220px;
+    height: 60px;
+    border: 2px solid #FFFFFF;
+    border-radius: 99px;
+    background: border-box;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
