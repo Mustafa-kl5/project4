@@ -1,0 +1,86 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.email-layout {
+    width: 303px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D8D8D8;
+    opacity: 1;
+    margin-top: 100px;
+    position: relative;
+    left: 97px;
+}
+
+.label-layout {
+    width: 39px;
+    height: 14px;
+    position: relative;
+    left: 27px;
+    top: 19px;
+}
+
+.email-input {
+    width: 143px;
+    height: 22px;
+    position: absolute;
+    left: 27px;
+    top: 39px;
+}
+
+.password-layout {
+    width: 303px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D8D8D8;
+    opacity: 1;
+    position: relative;
+    margin-top: 12px;
+    left: 97px;
+}
+
+.password-input {
+    position: relative;
+    left: 27px;
+    top: 32px;
+}
+
+.button-layout {
+    position: relative;
+    left: 97px;
+    top: 40px;
+
+}
+
+.me-section-layout {
+    position: absolute;
+    top: 125px;
+
+}
+
+.elka-section-layout {
+    width: 256px;
+    height: 160px;
+    position: absolute;
+    top: 284px;
+    right: 784;
+}
+
+.sign-in {
+    position: absolute;
+    top: 692.88px;
+    right: 58px;
+    width: 80px;
+    height: 80px;
+
+    background: repeating-radial-gradient(black, transparent 100px);
+    opacity: 1;
+}
+
+.signin-span {
+
+    right: 55px;
+    top: 14.12px;
+}

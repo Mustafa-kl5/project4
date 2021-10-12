@@ -1,0 +1,99 @@
+
+
+.container {
+    max-width:  1440px;
+    margin-top: 110px;
+    margin-bottom: 110px;
+    margin-right: 240px;
+    margin-left: 240px;
+}
+
+.login-page {
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.login-logo {
+    margin-bottom: 88px;
+    margin-top: 65px;
+    position: relative;
+}
+
+.paragraph-content {
+    max-width: 447px;
+    height: 156px;
+    left: 206px;
+    position: relative;
+}
+
+.login-form {
+    margin-top: 64.76px;
+    left: 206px;
+    position: relative;
+}
+
+.email-form {
+    top: 400.67px;
+    right: 207.16px;
+}
+
+.email-label {
+    display: flex;
+    position: relative;
+    bottom: 52.76px;
+    left: 31.61px;
+    top: 8.24px;
+    right: 370.84px;
+}
+
+.email-input {
+    display: flex;
+    position: relative;
+    left: 31.61px;
+    margin-top: 9px;
+
+}
+
+.password-form {
+    margin-top: 3.78px;
+    top: 400.67px;
+    right: 207.16px;
+}
+
+.password-input {
+    top: 30.46px;
+    left: 31.61px;
+    position: relative;
+}
+
+.forget-password {
+    right: -255px;
+    top: 30.46px;
+    position: relative;
+}
+
+
+.login-button {
+    margin-top: 55.46px;
+    position: relative;
+
+    left: 539px;
+
+}
+
+.footer-login {
+    margin-top: 130px;
+    position: relative;
+    left: 79px;
+}
+
+@media (max-width:629px) {
+    .img-11 {
+        display: none;
+    }
+}

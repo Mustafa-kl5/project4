@@ -1,0 +1,124 @@
+.img-11 {
+    width: 580px;
+    height: 860px;
+    background: transparent url('img/7859435030_d68388ec04_b.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+
+.login-logo-style {
+    text-align: right;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.paragraph-1 {
+    text-align: center;
+    font: normal normal 900 43px/59px Avenir;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    margin-bottom: 35px;
+}
+
+.paragraph-2 {
+    top: 35px;
+    text-align: center;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.email-form-style {
+    width: 446.45px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 40px #00000014;
+    opacity: 1;
+    border-left: 6px solid #FF5A87;
+}
+
+
+.email-label-style {
+
+    width: 44px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/19px Avenir;
+    letter-spacing: 0.7px;
+    color: #707070;
+    opacity: 0.5;
+}
+
+.email-input-style {
+    width: 118px;
+    height: 25px;
+    text-align: left;
+    font: normal normal medium 18px/25px Avenir;
+    letter-spacing: 0.9px;
+    color: #707070;
+    opacity: 1;
+    border: none;
+    background: content-box;
+}
+
+.password-form-style {
+    width: 446px;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 40px #00000014;
+    opacity: 1;
+}
+
+.password-input-style {
+    width: 85px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/19px Avenir;
+    letter-spacing: 0.7px;
+    color: #707070;
+    opacity: 1;
+    border: none;
+}
+
+.forget-password-style {
+    width: 66px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/19px Avenir;
+    letter-spacing: 0.7px;
+    color: #707070;
+    opacity: 0.3;
+}
+
+.login-button-style {
+    width: auto;
+    height: auto;
+    text-align: left;
+    font: normal normal 900 20px/27px Avenir;
+    letter-spacing: 1px;
+    color: #707070;
+    opacity: 1;
+    border: none;
+    background: center;
+}
+
+.login-icon-img {
+    background: #FF5A87 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.sign-up {
+    width: 257px;
+    height: 27px;
+    text-align: left;
+    font: normal normal normal 20px/27px Avenir;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
